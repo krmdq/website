@@ -1,0 +1,20 @@
+#qLoverlay {
+	background:url('../icons/logo.png') no-repeat center center #000;
+	z-index: 9999;
+}
+
+.QLoader {
+	background:#ccc;
+	height: 2px;
+	border-radius:5px;
+}
+.QLoader_bg {
+	width:30%;
+	margin:0px auto;
+	padding:0px;
+	background:#666;
+	height:2px;
+	position:relative;
+	top:60%;
+	border-radius:5px
+}
